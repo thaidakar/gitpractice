@@ -1,3 +1,5 @@
 One
 two
 three
+
+My name is Sean and this is Git practice
